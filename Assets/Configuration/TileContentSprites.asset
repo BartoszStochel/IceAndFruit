@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec2ce2464efdc640bb4e97fe28d8e40, type: 3}
+  m_Name: TileContentSprites
+  m_EditorClassIdentifier: 
+  fruitSprites:
+  - {fileID: 21300000, guid: 2fe35ae0d34f75748be9b94c22c16817, type: 3}
+  - {fileID: 21300000, guid: eeee407029a0ae3479c930e0ac163f44, type: 3}
+  - {fileID: 21300000, guid: a9e346280b10922418af8fab2ce106cc, type: 3}
+  - {fileID: 21300000, guid: 1d3d727fb67dfb64486a321efdee0793, type: 3}
+  - {fileID: 21300000, guid: 80e814919cfa6fa44b542f7815beba6c, type: 3}
+  - {fileID: 21300000, guid: 2c442d253790dc44c96165532a4b63fc, type: 3}
+  iceSprite: {fileID: 21300000, guid: faa65ebd4a6769d4db641aa24db799a1, type: 3}

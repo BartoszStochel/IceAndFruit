@@ -1,0 +1,12 @@
+﻿languageIdentifier	English	Polish	
+gameplayScore	Score	Punkty	
+gameplayCurrentTurn	Moves made	Wykonane ruchy	
+startGameMainMenuButton	Start game	Rozpocznij grę	
+introductionText	Welcome! Let's make some drinks!	Witaj! Zróbmy kilka drinków!	
+nextContent	Next things to appear:	W następnej turze pojawią się:	
+youLoseSummaryText	End of the game!<br>You have earned {0} points.<br>You have made {1} moves.	Koniec gry!<br>Uzyskano {0} punktów.<br>Wykonano {1} ruchów.	
+goBackToMainMenu	Back to main menu	Powrót do menu głównego	
+pauseMenuText	Pause	Gra wstrzymana	
+continueGameText	Continue	Kontunuuj	
+tutorialButtonText	How to play	Jak się w to gra?	
+backText	Back	Powrót	
