@@ -1,16 +1,19 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class MainMenuUI : MonoBehaviour
 {
 #pragma warning disable 0649
 	[SerializeField] private GameObject mainElements;
 	[SerializeField] private GameObject tutorialElements;
+	[SerializeField] private TextMeshProUGUI versionNumberIndicator;
 #pragma warning restore 0649
 
 	private void Start()
 	{
 		ShowMainMenu();
+		UpdateVersionNumber();
 	}
 
 	// Used by button in scene.
@@ -37,5 +40,10 @@ public class MainMenuUI : MonoBehaviour
 	public void ChangeLanguage(string languageIdentifier)
 	{
 		Modules.Localization.TryToSetLanguage(languageIdentifier);
+	}
+
+	private void UpdateVersionNumber()
+	{
+		versionNumberIndicator.text = Application.version;
 	}
 }
