@@ -10,3 +10,7 @@ pauseMenuText	Pause	Gra wstrzymana
 continueGameText	Continue	Kontunuuj	
 tutorialButtonText	How to play	Jak się w to gra?	
 backText	Back	Powrót	
+tutorialInstruction1	Select any object on board...	Wybierz dowolny obiekt na planszy...	
+tutorialInstruction2	...and then select the tile you want to move the object to!	...a następnie wybierz pole, na które chcesz go przesunąć!	
+tutorialInstruction3	Place at least three same fruits in line between ice cubes to remove them from board and gain points. The more fruits in line, the more points you gain!	Ułóż przynajmniej trzy takie same owoce w rzędzie pomiędzy kostkami lodu, aby usunąć je z planszy i zdobyć punkty. Im więcej owoców w rzędzie, tym więcej punktów zdobędziesz!	
+tutorialInstruction4	You can also place three distinct fruits between ice cubes, but this combination won't grant you so many points.	Możesz również umieścić trzy różne owoce pomiędzy kostkami lodu, ale za taką kombinację nie dostaniesz zbyt wielu punktów.	
